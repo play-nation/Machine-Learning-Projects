@@ -1,1 +1,2 @@
-## Machine Learning -> Forcasting Sticker Sales
+## Machine Learning Projects
+
